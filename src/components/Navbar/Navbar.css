@@ -1,0 +1,14 @@
+.link {
+  font-family: 'Roboto Slab', serif;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.brand {
+  font-family: 'Raleway', sans-serif;
+  color: #FF8F00;
+  text-decoration: none;
+  font-size: 30px;
+  font-weight: 600;
+  padding: 0px 10px;
+}
